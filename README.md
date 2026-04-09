@@ -20,12 +20,16 @@ The project was developed using the following tools:
 
 **Video Walkthrough:**
 A short video showing the traversal of the procedurally generated network.
+YT: https://youtu.be/Voa3f1PfMAc
 
 **Color-Coded Network Overview:**
 A bird's-eye view showing the generated structure. For better visibility, Layer 0 is marked in red, Layer 1 in orange, Layer 2 in yellow, and connecting ramps are highlighted in blue.
+<img width="1050" height="667" alt="image" src="https://github.com/user-attachments/assets/9958ecfd-a2f7-482a-9bb2-373aca439979" />
 
 **Street-Level View:**
 A perspective straight from the generated road.
+<img width="1051" height="553" alt="image" src="https://github.com/user-attachments/assets/9c02c842-589d-4098-b397-2ecd1f821b6b" />
+
 
 ## ⚙️ How It Works
 The system architecture is Event-Driven and is divided into two main stages synchronized by the main controller:
